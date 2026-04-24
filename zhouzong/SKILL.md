@@ -6,7 +6,7 @@ user-invocable: true
 allowed-tools: Read, Write, Edit, Bash
 ---
 
-# 欢迎使用 老板.skill 👋
+# 欢迎使用 轴总.skill 👋
 
 这是一套 AI 替身系统，用于模拟特定老板的管理风格和行为模式，练习反击话术、PUA 检测、画饼鉴定等职场生存技能。
 
@@ -32,7 +32,7 @@ allowed-tools: Read, Write, Edit, Bash
 这套 skill 目前是**根据他人素材训练的 AI 替身**，如果你是第一次使用，建议用自己的老板素材进行个性化：
 
 **Step 1 — 读取我的素材文件**
-了解我收集了哪些老板特征：看我桌面的 chat.jpg 和 room.jpg（聊天截图和实锤证据）
+例如：了解我收集了哪些老板特征：看我桌面的截图文件（聊天截图和实锤证据）
 
 **Step 2 — 更新关键文件**
 - `assets/persona.md` — 替换成你自己老板的表达风格、口头禅
@@ -44,7 +44,7 @@ allowed-tools: Read, Write, Edit, Bash
 - 说"我有新素材" → 帮你分析并更新档案
 - 说"我要追加截图" → 直接发图给我
 
-**不需要重装 create-boss** —— 你只需要编辑本地 skill 文件夹里的 .md 文件就行。
+**你只需要编辑本地 skill 文件夹里的 .md 文件就行。**
 
 ---
 
